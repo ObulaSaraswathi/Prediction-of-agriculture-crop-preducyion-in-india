@@ -7,3 +7,4 @@
 ![6](https://github.com/ObulaSaraswathi/Prediction-of-agriculture-crop-preducyion-in-india/assets/113244386/e9f071b3-8483-4643-be0f-3a91f05c1b4d)
 ![7](https://github.com/ObulaSaraswathi/Prediction-of-agriculture-crop-preducyion-in-india/assets/113244386/fd8b7f7f-7c0f-4a0a-9ce5-bdee17fb1570)
 ![8](https://github.com/ObulaSaraswathi/Prediction-of-agriculture-crop-preducyion-in-india/assets/113244386/2fc135bc-ce03-43ea-bb4c-e69b927c0274)
+![9](https://github.com/ObulaSaraswathi/Prediction-of-agriculture-crop-preducyion-in-india/assets/113244386/788b9bdb-c1fc-4245-b45d-4d84b4b5ef7b)
